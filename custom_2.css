@@ -1,3 +1,4 @@
-.mainarea_full_grn .mainarea-mail #menu_part, .subwindow_menupart_grn {
-	background-color: #e9745161;
+[class^="mainarea_full_"] [class^="mainarea-mail"] #menu_part,
+[class^="subwindow_menupart_"] {
+    background-color: #e9745161;
 }
