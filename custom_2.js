@@ -1,0 +1,1 @@
+console.log("Test JS customize 2");
